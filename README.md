@@ -12,11 +12,11 @@ Power BI: Used for developing the dashboard to visualize the analysis results
 
 1. Clone or download the repository
 2. Database Setup:
-    Import the dataset into a MySQL database.
-    Run the SQL scripts provided in the 'sql' directory for data cleaning and EDA.
+     - Import the dataset into a MySQL database.
+     - Run the SQL scripts provided in the 'sql' directory for data cleaning and EDA.
 3. Power BI Dashboard:
-    Open the Power BI file ('.pbix') in Power BI Desktop.
-    Ensure the data source is correctly configured to your MySQL database.
+     - Open the Power BI file ('.pbix') in Power BI Desktop.
+     - Ensure the data source is correctly configured to your MySQL database.
    
 # Analysis and Results
 

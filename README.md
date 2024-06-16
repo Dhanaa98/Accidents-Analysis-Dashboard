@@ -5,8 +5,8 @@ The analysis was conducted using MySQL for Data cleaning and Exploratory Data An
 
 # Tools and Technologies
 
-MySQL: Used for Data cleaning and Exploratory Data Analysis (EDA)
-Power BI: Used for developing the dashboard to visualize the analysis results
+- MySQL: Used for Data cleaning and Exploratory Data Analysis (EDA)
+- Power BI: Used for developing the dashboard to visualize the analysis results
 
 # How to Use
 
